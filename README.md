@@ -119,15 +119,15 @@ Damping only works where the air moves. **The layout that came out of eight meas
 ![The damping layout on the back panel — test setup](docs/assets/photos/damping-L-09-pocket-50g.jpg)
 
 > **Test setup, not the finished state.** The damping shown here is an experimental rig, built to
-> compare materials and placements: felt cut to size and stapled in, a hand-made pocket, material
+> compare materials and placements: fleece cut to size and stapled in, a hand-made pocket, material
 > added and taken out again between measurements. Materials: **sheep's wool garden fleece** — the
 > unbleached fleece sold as a plant-protection or mulch mat, ≈ 10 mm, 350 g per 5 × 0.5 m roll
 > (≈ 140 g/m²) — and **polyester fibre fill**, the synthetic stuffing found in ordinary pillows. The finished speakers
-> get the same layout made neatly: felt cut to the panel, a sewn pocket, fixed securely.
+> get the same layout made neatly: fleece cut to the panel, a sewn pocket, fixed securely.
 
 ![Change of the three problem peaks for each damping variant](docs/assets/charts/step1-rounds.png)
 
-One sheet of felt per speaker, all on the back panel, −5 to −6 dB on every resonance, direct sound
+One sheet of fleece per speaker, all on the back panel, −5 to −6 dB on every resonance, direct sound
 unchanged. All eight variants: [docs/05-step-1-damping.md](docs/05-step-1-damping.md).
 
 ## The driver: Aiyima instead of Fostex

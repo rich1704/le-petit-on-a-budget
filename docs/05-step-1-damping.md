@@ -1,8 +1,8 @@
 # Step 1 — Damping
 
 **Question:** what does the untreated box actually do, and what damping does it need?
-**Result:** three box resonances leak out of the port; a back-panel layout with one sheet of wool
-felt per speaker plus a 50 g polyester pocket reduces them by 5–6 dB without touching the driver's
+**Result:** three box resonances leak out of the port; a back-panel layout with one sheet of sheep's wool
+fleece per speaker plus a 50 g polyester pocket reduces them by 5–6 dB without touching the driver's
 direct sound.
 
 ## Background: two terms
@@ -85,7 +85,7 @@ the box — held constant.
 
 *dB change of the band maximum in the port near field vs. the baseline `L-00` (1/12 octave).*
 
-`L-05` measures best; `L-09` is the production layout: one felt sheet per speaker, all on the back
+`L-05` measures best; `L-09` is the production layout: one fleece sheet per speaker, all on the back
 panel, better than three plain layers, within 1.5 dB of `L-05` at 350 Hz. Only the depth mode stays
 ~6 dB behind — a free-standing bag reaches into the box depth, a panel pocket can't.
 

@@ -149,7 +149,7 @@ Keep ≈ 5 cm clear around the tube's mouth and behind the driver. Materials: sh
 
 > **The photo shows the test setup**, not a finished interior: this layout came out of eight
 > measured variants where material was added and removed between measurements
-> ([Damping](05-step-1-damping.md)). For the finished speaker, cut the felt to the panel, sew the
+> ([Damping](05-step-1-damping.md)). For the finished speaker, cut the fleece to the panel, sew the
 > pocket and fix both securely.
 
 ## 14 — Close it and listen
