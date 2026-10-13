@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-label="Side view: the speaker stands on a chair, driver centre 86 cm above the floor, rear wall 50 cm behind. Far-field mic 50 cm in front at driver height. Near-field mic 5 mm from the dust cap. Port mic in the plane of the port opening. The floor reflection travels down and up to the mic and arrives about 3.8 ms after the direct sound."><style>text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:13px;fill:#16181a} .s{font-size:11.5px;fill:#5b5f63;paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round} .m{font-family:Menlo,Consolas,monospace;font-size:11.5px}</style><rect x="0" y="0" width="760" height="300" fill="#ffffff"/>
+          <line x1="20" y1="270" x2="740" y2="270" stroke="#16181a" stroke-width="1.5"/>
+          <text x="740" y="288" text-anchor="end" class="s">floor</text>
+          <line x1="70" y1="20" x2="70" y2="270" stroke="#16181a" stroke-width="1.5"/>
+          <text x="78" y="34" class="s">rear wall</text>
+          <rect x="150" y="38" width="76" height="190" fill="none" stroke="#16181a" stroke-width="1.8"/>
+          <line x1="226" y1="78" x2="236" y2="78" stroke="#16181a" stroke-width="3"/>
+          <rect x="226" y="166" width="10" height="20" fill="none" stroke="#16181a" stroke-width="1.5"/>
+          <path d="M150 228 v42 M226 228 v42" stroke="#5b5f63" stroke-width="1.2" stroke-dasharray="4 3"/>
+          <text x="188" y="252" text-anchor="middle" class="s">chair</text>
+          <path d="M70 120 H150" stroke="#5b5f63" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+          <text x="110" y="114" text-anchor="middle" class="s">50 cm</text>
+          <path d="M120 78 V270" stroke="#5b5f63" stroke-width="1" stroke-dasharray="2 3"/>
+          <text x="114" y="200" text-anchor="end" class="s">86 cm</text>
+          <rect x="242" y="73" width="16" height="10" rx="2" fill="#2a78d6"/>
+          <text x="262" y="66" class="s">near-field driver, 5 mm</text>
+          <rect x="240" y="171" width="16" height="10" rx="2" fill="#2a78d6"/>
+          <text x="262" y="196" class="s">near-field port, in the opening plane</text>
+          <rect x="610" y="73" width="22" height="10" rx="2" fill="#d4572a"/>
+          <text x="621" y="64" text-anchor="middle" class="s">far-field mic</text>
+          <path d="M236 78 H610" stroke="#16181a" stroke-width="1.2" marker-end="url(#a)"/>
+          <text x="500" y="72" text-anchor="middle">direct sound, 50 cm</text>
+          <path d="M236 80 L423 270 L610 82" fill="none" stroke="#5b5f63" stroke-width="1.2" stroke-dasharray="6 4"/>
+          <text x="423" y="258" text-anchor="middle" class="s">floor reflection, +3.8 ms</text>
+          <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#16181a"/></marker></defs>
+        </svg>

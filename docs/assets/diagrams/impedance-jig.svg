@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" role="img" aria-label="Impedance jig: the headphone output drives a 50.1 ohm resistor in series with the speaker. Input 3 measures the voltage before the resistor, input 4 the voltage across the speaker. All grounds meet at the speaker's second wire."><style>text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:13px;fill:#16181a} .s{font-size:11.5px;fill:#5b5f63;paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round} .m{font-family:Menlo,Consolas,monospace;font-size:11.5px}</style><rect x="0" y="0" width="760" height="200" fill="#ffffff"/>
+          <g fill="none" stroke="#16181a" stroke-width="1.6">
+            <circle cx="76" cy="80" r="36"/>
+            <path d="M112 80 H250"/><rect x="250" y="66" width="120" height="28" rx="3"/><path d="M370 80 H560"/>
+            <rect x="560" y="56" width="70" height="98" rx="4"/>
+            <path d="M76 116 V160 H560"/>
+          </g>
+          <text x="76" y="77" text-anchor="middle" class="s">PHONES</text><text x="76" y="92" text-anchor="middle" class="s">left</text>
+          <text x="310" y="85" text-anchor="middle" font-weight="600">R = 50.1 Ω</text>
+          <text x="310" y="114" text-anchor="middle" class="s">2 × 100 Ω in parallel</text>
+          <text x="595" y="102" text-anchor="middle">Z</text><text x="595" y="120" text-anchor="middle" class="s">speaker</text>
+          <circle cx="190" cy="80" r="5" fill="#d4572a"/><circle cx="460" cy="80" r="5" fill="#2a78d6"/>
+          <path d="M190 80 V40" stroke="#d4572a" stroke-width="1.6" stroke-dasharray="5 3"/>
+          <path d="M460 80 V40" stroke="#2a78d6" stroke-width="1.6" stroke-dasharray="5 3"/>
+          <text x="190" y="32" text-anchor="middle">IN 3 · V<tspan baseline-shift="sub" font-size="10">A</tspan></text>
+          <text x="460" y="32" text-anchor="middle">IN 4 · V<tspan baseline-shift="sub" font-size="10">B</tspan></text>
+          <text x="320" y="180" text-anchor="middle" class="s">ground: phones sleeve, both input sleeves, speaker wire 2</text>
+        </svg>

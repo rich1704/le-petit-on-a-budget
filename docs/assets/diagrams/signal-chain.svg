@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 210" role="img" aria-label="Signal chain: the computer plays a sweep through the UMC404. Output 1 drives the A70 amplifier and the speaker; output 2 is looped back into input 2 as the reference. The ECM8000 microphone records on input 1."><style>text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:13px;fill:#16181a} .s{font-size:11.5px;fill:#5b5f63;paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round} .m{font-family:Menlo,Consolas,monospace;font-size:11.5px}</style><rect x="0" y="0" width="760" height="210" fill="#ffffff"/>
+          <g fill="none" stroke="#16181a" stroke-width="1.5">
+            <rect x="10" y="70" width="110" height="60" rx="6"/>
+            <rect x="190" y="40" width="160" height="130" rx="6"/>
+            <rect x="430" y="40" width="100" height="44" rx="6"/>
+            <rect x="600" y="28" width="70" height="68" rx="6"/>
+            <circle cx="635" cy="62" r="18"/>
+            <path d="M120 100 H190"/>
+            <path d="M350 62 H430"/><path d="M530 62 H600"/>
+            <path d="M350 105 H385 V140 H350"/>
+            <path d="M730 71 V190 H370 V159 H350"/>
+          </g>
+          <circle cx="730" cy="62" r="9" fill="none" stroke="#16181a" stroke-width="1.5"/>
+          <path d="M676 62 q10 -14 0 -28 M686 62 q16 -22 0 -44" fill="none" stroke="#5b5f63" stroke-width="1.2"/>
+          <text x="65" y="97" text-anchor="middle">Computer</text><text x="65" y="114" text-anchor="middle" class="s">speakerlab</text>
+          <text x="270" y="62" text-anchor="middle" font-weight="600">UMC404</text>
+          <text x="338" y="58" text-anchor="end" class="m">OUT 1</text>
+          <text x="338" y="101" text-anchor="end" class="m">OUT 2</text>
+          <text x="338" y="136" text-anchor="end" class="m">IN 2</text>
+          <text x="338" y="163" text-anchor="end" class="m">IN 1</text>
+          <text x="400" y="128" class="s">loopback</text>
+          <text x="480" y="67" text-anchor="middle">A70</text>
+          <text x="635" y="114" text-anchor="middle">speaker</text>
+          <text x="560" y="182" text-anchor="middle" class="s">ECM8000 mic cable</text><text x="730" y="40" text-anchor="middle" class="s">mic</text>
+          <text x="150" y="92" text-anchor="middle" class="s">USB</text>
+        </svg>

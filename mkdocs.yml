@@ -1,0 +1,55 @@
+site_name: Le Petit on a budget
+site_description: Jean Hiraga's Le Petit from one OSB sheet with the Aiyima 4" driver — built on a budget, tuned by measurement.
+copyright: Documentation CC BY-SA 4.0 · Le Petit design by Jean Hiraga (1983)
+docs_dir: docs
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle: {icon: material/weather-night, name: Dark mode}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle: {icon: material/weather-sunny, name: Light mode}
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - content.tables.sort
+    - navigation.top
+nav:
+  - Home: index.md
+  - Build:
+      - Build guide: 01-build.md
+      - Building plan: building-plan.md
+  - Results:
+      - "Step 1 — Damping": 05-step-1-damping.md
+      - "Step 2 — Port tube": 06-step-2-port-tube.md
+      - Aiyima vs. FE103NV2: 07-aiyima-vs-fe103.md
+      - Lessons & roadmap: 08-lessons.md
+  - How it was measured:
+      - Measurement rig: 02-measurement-rig.md
+      - Impedance jig: 03-impedance-jig.md
+      - Method: 04-method.md
+      - Raw data: data/README.md
+  - Credits & license: CREDITS.md
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+extra_css:
+  - assets/extra.css
