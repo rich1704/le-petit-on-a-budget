@@ -31,7 +31,7 @@ end correction), so no box model is needed. From Fb = 72 Hz at 44 mm:
 
 HT DN75 drain pipe, mounted from the inside against the front panel, joint sealed. **Total port =
 tube + front panel + doubler = 175 mm, measured straight through.** ≈ 4.7 cm clear to the
-back-panel wool. Details: [Build → Port tube](01-build.md#port-tube).
+back-panel wool. Details: [Build → Port tube](01-build.md#12-port-tube).
 
 ## Verification
 
