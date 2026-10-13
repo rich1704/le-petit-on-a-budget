@@ -65,7 +65,7 @@ positions and assembly order: [docs/building-plan.md](docs/building-plan.md).
 **The build guide** in 14 steps — [docs/01-build.md](docs/01-build.md):
 
 1. Cut the board (cutting plan above)
-2. Drill the holes — Ø 94 driver, Ø 75 / 70 port, Ø 12 terminals
+2. Drill the holes — Ø 94 driver, Ø 70 port in the front and the doubler, Ø 12 terminals
 3. Seal the inside faces — OSB isn't airtight
 4. Glue the cleats 23 mm from the rear edge
 5. Biscuit slots and carcass — glued, no screws
@@ -195,7 +195,7 @@ docs/
 ├── 06-step-2-port-tube.md   port tuning from 72 to 48 Hz, result, listening test
 ├── 07-aiyima-vs-fe103.md    what changes with the Aiyima driver
 ├── 08-lessons.md            recommendations, conclusions, roadmap
-├── plans/                   building-plan sheets (SVG), cutting plan (SVG) + generator script
+├── plans/                   building-plan sheets and cutting plan (SVG) + their generator scripts
 ├── data/csv/                every measurement as CSV
 ├── data/                    raw recordings (.npz) and overview plots
 └── assets/                  photos, charts, diagrams
@@ -203,7 +203,7 @@ docs/
 
 | Folder | Contents |
 | --- | --- |
-| [docs/plans/](docs/plans/) | [sheet 1](docs/plans/building-plan-sheet-1.svg) views and sections · [sheet 2](docs/plans/building-plan-sheet-2.svg) panels and cut list · [sheet 3](docs/plans/building-plan-sheet-3.svg) assembly · [cutting plan](docs/plans/cut-layout-2000x1000.svg) · [generator](docs/plans/make_cut_layout.py) |
+| [docs/plans/](docs/plans/) | [sheet 1](docs/plans/building-plan-sheet-1.svg) views and sections · [sheet 2](docs/plans/building-plan-sheet-2.svg) panels and cut list · [sheet 3](docs/plans/building-plan-sheet-3.svg) assembly · [cutting plan](docs/plans/cut-layout-2000x1000.svg) · generators: [sheets](docs/plans/make_building_plan.py), [cutting plan](docs/plans/make_cut_layout.py) |
 | [docs/data/csv/](docs/data/csv/) | frequency responses, impedance and bass sums of every session |
 | [docs/data/](docs/data/README.md) | raw impulse responses and impedance (.npz), format description |
 | [docs/assets/](docs/assets/) | [photos](docs/assets/photos/), [charts](docs/assets/charts/), [diagrams](docs/assets/diagrams/) |

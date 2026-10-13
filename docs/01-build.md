@@ -56,7 +56,7 @@ Downloads: [SVG](plans/cut-layout-2000x1000.svg) · [PNG](plans/cut-layout-2000x
 | Hole | Size | Where |
 | --- | --- | --- |
 | Driver | Ø 94 mm | front, centred, 115 mm below the top — check against your driver first |
-| Port | Ø 75 mm | front, centred, 150 mm above the bottom |
+| Port | Ø 70 mm | front, centred, 150 mm above the bottom — same size as the doubler |
 | Port | Ø 70 mm | doubler, centre |
 | Terminals | 2 × Ø 12 mm | back panel, 40 mm apart (plan sheet 2) |
 
@@ -136,15 +136,13 @@ straight through from the tube's inner end to the doubler's outer face. That tun
 
 ![Section through the port: doubler 22 + front 22 + tube 131 = 175 mm total, 57 mm clear to the back panel](assets/diagrams/port-tube.svg)
 
-**Cut list for the tube:** as built (butted against the inside of the front, with flaps): 131 mm tube
-+ 20 mm for the flaps = **151 mm piece**. Pushed into the Ø 75 front bore instead: **153 mm piece**.
+**Cut list for the tube:** 131 mm tube + 20 mm for the flaps = **151 mm piece**.
 
-Two ways to mount it from the inside:
-
-- **Pushed into the Ø 75 front bore** up to the doubler, sealed with acrylic.
-- **As built here:** eight 20 mm slits at one end (a 3 mm relief hole at the end of each), the flaps
-  warmed and bent out 90°, four screwed to the inside of the front panel (3.5 × 12 mm), the joint
-  sealed airtight.
+Both holes, front and doubler, are **Ø 70 mm**, so the tube (75 mm outside) can't go into the front;
+it's mounted from the inside: eight 20 mm slits at one end (a 3 mm relief hole at the end of each),
+the flaps warmed and bent out 90°, four screwed to the inside of the front panel (3.5 × 12 mm), the
+joint sealed airtight. The plan drew a Ø 75 bore in the front with the tube pushed in — with Ø 70 in
+both panels the port is one clean bore from the outside to the tube.
 
 ![The tube mounted from the inside with screwed flaps](assets/photos/tube-mounted-inside.jpg)
 

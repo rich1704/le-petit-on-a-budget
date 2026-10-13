@@ -2,11 +2,11 @@
 <style>text{paint-order:stroke;stroke:#ffffff;stroke-width:4px;stroke-linejoin:round}</style>
 <rect width="900" height="580" fill="#ffffff"/>
 <text x="30" y="34" font-size="18" font-weight="700" fill="#16181a">Port: 175 mm total — section through the port axis (to scale)</text>
-<text x="30" y="56" font-size="12.5" fill="#5b5f63">As built: HT DN75 tube (75 × 1.9 mm) butted against the inside of the front panel, flaps screwed, joint sealed.</text>
+<text x="30" y="56" font-size="12.5" fill="#5b5f63">As built: Ø 70 hole in the doubler and in the front; HT DN75 tube (75 × 1.9 mm) butted against the inside of the front, flaps screwed, joint sealed.</text>
 <rect x="90.0" y="124.5" width="57.2" height="44.5" fill="#e9d9bd" stroke="#16181a" stroke-width="1.5"/>
 <rect x="90.0" y="351.0" width="57.2" height="44.5" fill="#e9d9bd" stroke="#16181a" stroke-width="1.5"/>
-<rect x="147.2" y="124.5" width="57.2" height="38.0" fill="#e9d9bd" stroke="#16181a" stroke-width="1.5"/>
-<rect x="147.2" y="357.5" width="57.2" height="38.0" fill="#e9d9bd" stroke="#16181a" stroke-width="1.5"/>
+<rect x="147.2" y="124.5" width="57.2" height="44.5" fill="#e9d9bd" stroke="#16181a" stroke-width="1.5"/>
+<rect x="147.2" y="351.0" width="57.2" height="44.5" fill="#e9d9bd" stroke="#16181a" stroke-width="1.5"/>
 <rect x="693.2" y="124.5" width="57.2" height="271.0" fill="#e9d9bd" stroke="#16181a" stroke-width="1.5"/>
 <rect x="667.2" y="124.5" width="26.0" height="271.0" fill="#e7e1d3" stroke="#5b5f63" stroke-width="1" stroke-dasharray="3 2"/>
 <rect x="204.4" y="162.5" width="340.6" height="5.2" fill="#8a9097" stroke="#16181a" stroke-width="1"/>
@@ -20,7 +20,7 @@
 <text x="374.7" y="381.5" font-size="12.5" fill="#16181a" text-anchor="middle">HT DN75 tube inside the box</text>
 <text x="214.4" y="148.5" font-size="11.5" fill="#5b5f63">flaps</text>
 <text x="539.0" y="185.7" font-size="11.5" fill="#5b5f63" text-anchor="end">Ø ≈ 71 inside</text>
-<text x="143.2" y="185.0" font-size="11" fill="#5b5f63" text-anchor="end">Ø 70</text>
+<text x="147.2" y="190.0" font-size="11" fill="#5b5f63" text-anchor="middle">Ø 70 in both</text>
 <text x="118.6" y="413.5" font-size="12" fill="#5b5f63" text-anchor="middle">doubler</text>
 <text x="185.8" y="429.5" font-size="12" fill="#5b5f63" text-anchor="middle">front</text>
 <text x="721.8" y="413.5" font-size="12" fill="#5b5f63" text-anchor="middle">back panel</text>
@@ -50,5 +50,5 @@
 <line x1="204.4" y1="498.5" x2="204.4" y2="512.5" stroke="#5b5f63" stroke-width="1.3"/>
 <line x1="693.2" y1="498.5" x2="693.2" y2="512.5" stroke="#5b5f63" stroke-width="1.3"/>
 <text x="448.8" y="523.5" font-size="11.5" fill="#5b5f63" text-anchor="middle">188 mm inner depth of the box</text>
-<text x="30" y="566" font-size="12" fill="#5b5f63">Fb ≈ 48 Hz with the Aiyima 4" (8 Ω). Alternative mount: a 153 mm tube pushed into the Ø 75 front bore up to the doubler — same 175 mm total.</text>
+<text x="30" y="566" font-size="12" fill="#5b5f63">Fb ≈ 48 Hz with the Aiyima 4" (8 Ω). Tube piece to cut: 131 mm + 20 mm for the flaps = 151 mm.</text>
 </svg>

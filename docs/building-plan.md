@@ -1,14 +1,15 @@
 # Building plan
 
 Le Petit after Jean Hiraga (*L'Audiophile* no. 29, 1983), hole positions after R. Berchtold (2022),
-adapted to **22 mm OSB** with butt joints with biscuits and wood glue (no screws in the carcass) and a **removable back panel**.
-All dimensions in mm. The drawings are vector files (SVG) — open them full size to print at any scale.
-The carcass was **glued with biscuits, not screwed**: where the drawings mark carcass screws, read
-biscuit positions.
+adapted to **22 mm OSB**, butt joints with **biscuits and wood glue (no screws in the carcass)** and a
+**removable back panel**. All dimensions in mm. The drawings are vector files (SVG) — open them full
+size to print at any scale.
 
-> **Changed against the drawings: the back panel is 292 × 482**, not 294 × 484 — 2 mm play per side
-> in the 296 × 486 opening (step 10 of the [build guide](01-build.md)). The drawings show the
-> original 294 × 484; sheet 1 also labels the back "300 × 490", which is a drawing error.
+> **The sheets show the speaker as built:** biscuit joints (every slot on sheet 2), the back panel
+> **292 × 482** (2 mm play per side in the 296 × 486 opening), the port **Ø 70 in the front and the
+> doubler** with a 131 mm tube on screwed flaps (175 mm total). Changes against the original plan:
+> carcass screws → biscuits, back 294 × 484 → 292 × 482, front bore Ø 75 → Ø 70, tube 117 → 131 mm.
+> The sheets are drawn by [make_building_plan.py](plans/make_building_plan.py).
 
 ## Sheet 1 — Views and sections
 
@@ -43,7 +44,7 @@ biscuit positions.
 | Outside | 530 × 340 × 232 (H × W × D), 254 deep at the doubler |
 | Inside clear | 486 × 296 × 188 = **27.0 l** (original 26.5 l) |
 | Material | 22 mm OSB, butt joints with **biscuits (size 20) and wood glue — no screws in the carcass**; only the back panel is screwed (M4 into inserts) |
-| Port | Ø 70 through the doubler, Ø 75 bore in the front; the plan's tube 117 + doubler 22 = 139 mm ≈ 43 Hz for the FE103NV2 — **with the Aiyima: 175 mm total, ≈ 48 Hz** ([Step 2](06-step-2-port-tube.md)) |
+| Port | Ø 70 through the doubler **and** the front (the original plan: Ø 75 in the front); the plan's tube 117 + doubler 22 = 139 mm ≈ 43 Hz for the FE103NV2 — **with the Aiyima: 175 mm total, ≈ 48 Hz** ([Step 2](06-step-2-port-tube.md)) |
 
 ## Cut list
 
@@ -52,10 +53,11 @@ biscuit positions.
 | Front | 530 × 340 × 22 | 1 | 2 |
 | Side | 530 × 210 × 22 | 2 | 4 |
 | Top / bottom | 296 × 210 × 22 | 2 | 4 |
-| Back | **482 × 292** × 22 (drawing: 294 × 484) | 1 | 2 |
+| Back | **482 × 292** × 22 | 1 | 2 |
 | Doubler | 300 × 300 × 22 | 1 | 2 |
 | Cleat, beech | 486 × 15 × 20 | 2 | 4 |
 | Cleat, beech | 266 × 15 × 20 | 2 | 4 |
+| Biscuits | size 20 | 30 | 60 |
 
 OSB for the pair: 1.52 m² net — one 2000 × 1000 mm board ([cutting plan](01-build.md)).
 Cut the cleats to fit the finished opening.
@@ -65,17 +67,17 @@ Cut the cleats to fit the finished opening.
 | Hole | Size | Position |
 | --- | --- | --- |
 | Driver | Ø 94 | front, centred, 115 below the top — check against your driver first |
-| Port | Ø 75 | front, centred, 150 above the bottom |
+| Port | Ø 70 | front, centred, 150 above the bottom — same as the doubler |
 | Port | Ø 70 | doubler, centre |
-| Terminals | 2 × Ø 12 | back, 40 apart, ≈ 92–95 up (drawing 92, hole table 95) — not critical |
-| Back screws | 16 × Ø 4.5 | through the back, no countersink: 57 / 90 / 90 / 57 across, 32 / 105 / 105 / 105 / 105 / 32 up, 6.5 from the edge |
+| Terminals | 2 × Ø 12 | back, 40 apart, centred, 92 up — not critical |
+| Back screws | 16 × Ø 4.5 | through the back, no countersink: 56 / 90 / 90 / 56 across, 31 / 105 / 105 / 105 / 105 / 31 up, 6.5 from the edge |
 
 Chamfer the inside edge of the driver cutout.
 
 ## Carcass joints: biscuits and glue
 
-As built, the carcass is **glued with biscuits — no screws**. The drawings mark screw positions; the
-biscuits sit at exactly those positions. **30 biscuits per cabinet, size 20** (60 for the pair).
+As built, the carcass is **glued with biscuits — no screws**. Sheet 2 shows every slot.
+**30 biscuits per cabinet, size 20** (60 for the pair).
 
 | Joint | Biscuits (positions in mm from the panel end) |
 | --- | --- |
@@ -106,7 +108,7 @@ biscuits sit at exactly those positions. **30 biscuits per cabinet, size 20** (6
 ## Assembly order
 
 1. **Cut and check.** Cut all panels; the front sets the box square — check its diagonals.
-2. **Holes.** Ø 94 and Ø 75 in the front, Ø 70 in the doubler, Ø 12 and 16 × Ø 4.5 in the back.
+2. **Holes.** Ø 94 and Ø 70 in the front, Ø 70 in the doubler, Ø 12 and 16 × Ø 4.5 in the back.
 3. **Seal.** Two coats of thinned lacquer on all inside faces before assembly — OSB is porous.
 4. **Cleats.** Glue to sides, top and bottom, face 23 mm from the rear edge (jig: back panel on the
    rear edges, 22 mm offcuts + 1 mm card as spacers).
