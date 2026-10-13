@@ -116,7 +116,13 @@ Damping only works where the air moves. **The layout that came out of eight meas
 - **a wool pocket with 50 g of loose polyester fill** across the **middle third of the height**
   (where the height mode moves the most air).
 
-![The damping layout on the back panel](assets/photos/damping-L-09-pocket-50g.jpg)
+![The damping layout on the back panel — test setup](assets/photos/damping-L-09-pocket-50g.jpg)
+
+> **Test setup, not the finished state.** The damping shown here is an experimental rig, built to
+> compare materials and placements: felt cut to size and stapled in, a hand-made pocket, material
+> added and taken out again between measurements. Materials: **wool felt, about 10 mm**, and
+> **polyester fibre fill** — the synthetic stuffing found in ordinary pillows. The finished speakers
+> get the same layout made neatly: felt cut to the panel, a sewn pocket, fixed securely.
 
 ![Change of the three problem peaks for each damping variant](assets/charts/step1-rounds.png)
 

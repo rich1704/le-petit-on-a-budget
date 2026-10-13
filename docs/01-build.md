@@ -144,9 +144,13 @@ Two ways to mount it from the inside:
 - **A wool pocket with 50 g of loose polyester fill**, puffy, across the **middle third of the box
   height** (≈ 16–32 cm above the inner floor), stapled to the back panel.
 
-Keep ≈ 5 cm clear around the tube's mouth and behind the driver. This layout came out of eight
-measured variants ([Damping](05-step-1-damping.md)); the photo shows the test fixture — for the
-finished speaker, cut the felt to the panel and sew the pocket.
+Keep ≈ 5 cm clear around the tube's mouth and behind the driver. Materials: wool felt about 10 mm,
+and polyester fibre fill — the synthetic stuffing found in ordinary pillows.
+
+> **The photo shows the test setup**, not a finished interior: this layout came out of eight
+> measured variants where material was added and removed between measurements
+> ([Damping](05-step-1-damping.md)). For the finished speaker, cut the felt to the panel, sew the
+> pocket and fix both securely.
 
 ## 14 — Close it and listen
 

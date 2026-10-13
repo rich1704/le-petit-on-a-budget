@@ -50,6 +50,19 @@ Porous material absorbs where the air *moves*, not where pressure builds:
 **Design goal for the production layout:** one sheet of wool felt per speaker, everything mounted
 on the removable back panel.
 
+## Test setup
+
+The damping was studied as an **experimental setup**, not built as a finished interior: materials were
+added and taken out again between measurements, with everything else — microphone positions, gains,
+the box — held constant.
+
+| | |
+| --- | --- |
+| Materials | **wool felt, about 10 mm**; **polyester fibre fill** (the synthetic stuffing found in ordinary pillows), weighed per round; a thin fabric bag or a wool pocket to hold the fill |
+| Fixing | staples into the back panel, so each variant can be changed in minutes |
+| Per round | one change, then port near field (all rounds) and far field + near-field driver (full sessions) |
+| Outcome | a layout to build neatly in the finished speaker — not the stapled test fixture itself |
+
 ## Eight variants, measured
 
 ![Change of the three problem peaks for each damping variant](assets/charts/step1-rounds.png)
@@ -79,8 +92,8 @@ panel, better than three plain layers, within 1.5 dB of `L-05` at 350 Hz. Only t
 | ![L-06: fill pressed flat under wool](assets/photos/damping-L-06-cushion.jpg) | ![L-08: one layer + 25 g pocket](assets/photos/damping-L-08-pocket-25g.jpg) | ![L-09: one layer + 50 g pocket](assets/photos/damping-L-09-pocket-50g.jpg) |
 | `L-06`: fill pressed flat — about half the effect of a puffy pocket | `L-08`: one layer + 25 g pocket | `L-09`: one layer + 50 g pocket |
 
-*Prototype fixtures, built to be changed between rounds. The finished speakers get the same layout,
-neatly made.*
+*Test setup: material stapled in so it could be added, moved or removed between rounds. The finished
+speakers get the same layout, neatly made.*
 
 </details>
 
@@ -126,5 +139,5 @@ the box, not on the driver. In the room, at the mic, the 350 Hz region dropped ~
 - Port near-field data above ≈ 1.6 kHz are relative comparisons at a fixed position, not absolute
   levels.
 - The friction-fit back panel's seating was the largest uncontrolled variable in the bass.
-- The damping was measured as prototype fixtures; the neat production version gets one confirming
+- The damping was measured as a test setup; the neat production version gets one confirming
   measurement.
