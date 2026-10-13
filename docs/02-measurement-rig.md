@@ -5,10 +5,11 @@
 Professional loudspeaker measurement doesn't need an anechoic room. It needs a reference, a
 repeatable setup, and the right time window. Everything here is affordable, off-the-shelf gear.
 
-![The measurement setup: speaker on a chair, measurement microphone at 50 cm, floor marks](assets/photos/measurement-setup.jpg)
+![The measurement setup with the three microphone positions](assets/photos/measurement-setup-annotated.jpg)
 
-*The setup: speaker on a chair (driver at 86 cm), the ECM8000 fixed at 50 cm, every position
-marked on the floor.*
+*The setup: speaker on a chair (driver at 86 cm), every position marked on the floor. ① Far field: the
+ECM8000 at 50 cm, on axis. ② Near field: mic tip 5 mm from the dust cap. ③ Near field: mic tip in the
+plane of the port opening.*
 
 ## Equipment
 

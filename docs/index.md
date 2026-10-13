@@ -145,7 +145,9 @@ Aiyima (Re 3.4 Ω, Fs 73 Hz, Qts 0.52) is for the 4 Ω version; the impedance me
 
 ## How it was measured
 
-<img src="assets/photos/measurement-setup.jpg" alt="The measurement setup: speaker on a chair, microphone at 50 cm, floor marks" width="420">
+<img src="assets/photos/measurement-setup-annotated.jpg" alt="The measurement setup with the three microphone positions: 1 far field at 50 cm, 2 near field at the driver, 3 near field at the port" width="520">
+
+*The three microphone positions: ① far field, 50 cm on axis · ② near field, 5 mm from the dust cap · ③ near field, in the port opening.*
 
 | Item | Role |
 | --- | --- |
