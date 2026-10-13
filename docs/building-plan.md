@@ -30,6 +30,10 @@ All dimensions in mm. The drawings are vector files (SVG) — open them full siz
 
 ![Section through the port: doubler 22 + front 22 + tube 131 = 175 mm total, 57 mm clear to the back panel](assets/diagrams/port-tube.svg)
 
+## Damping (as built)
+
+![Damping layout to scale: one fleece layer ≈ 266 × 456 on the back panel, a pocket ≈ 240 × 160 with 50 g polyester fill, 160–320 mm above the inner floor](assets/diagrams/damping-layout.svg)
+
 ## Dimensions
 
 | | Size |

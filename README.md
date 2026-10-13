@@ -118,6 +118,8 @@ Damping only works where the air moves. **The layout that came out of eight meas
 - **a wool pocket with 50 g of loose polyester fill** across the **middle third of the height**
   (where the height mode moves the most air).
 
+![Damping layout to scale: one fleece layer ≈ 266 × 456 on the back panel, a pocket ≈ 240 × 160 with 50 g polyester fill, 160–320 mm above the inner floor](docs/assets/diagrams/damping-layout.svg)
+
 ![The damping layout on the back panel — test setup](docs/assets/photos/damping-L-09-pocket-50g.jpg)
 
 > **Test setup, not the finished state.** The damping shown here is an experimental rig, built to

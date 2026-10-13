@@ -143,6 +143,8 @@ Two ways to mount it from the inside:
 
 ## 13 — Damping
 
+![Damping layout to scale: one fleece layer ≈ 266 × 456 on the back panel, a pocket ≈ 240 × 160 with 50 g polyester fill, 160–320 mm above the inner floor](assets/diagrams/damping-layout.svg)
+
 ![The damping layout on the back panel](assets/photos/damping-L-09-pocket-50g.jpg)
 
 - **One layer of sheep's wool fleece** (≈ 10 mm) covering the inside of the back panel, opposite the port.

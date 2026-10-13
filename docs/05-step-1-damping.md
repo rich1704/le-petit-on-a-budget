@@ -50,6 +50,17 @@ Porous material absorbs where the air *moves*, not where pressure builds:
 **Design goal for the production layout:** one sheet of wool fleece per speaker, everything mounted
 on the removable back panel.
 
+## The chosen layout
+
+![Damping layout to scale: one fleece layer ≈ 266 × 456 on the back panel, a pocket ≈ 240 × 160 with 50 g polyester fill, 160–320 mm above the inner floor](assets/diagrams/damping-layout.svg)
+
+| Part | Size | Position |
+| --- | --- | --- |
+| Fleece layer | ≈ 266 × 456 mm, one layer ≈ 10 mm (sheep's wool garden fleece, ≈ 140 g/m²) | inside of the back panel, within the cleats |
+| Pocket | ≈ 240 × 160 mm, made of the same fleece | across the back panel, 160–320 mm above the inner floor (middle third of the 486 mm height) |
+| Fill | **50 g** polyester fibre fill, loose, puffed to 6–10 cm | inside the pocket |
+| Clearance | ≈ 5 cm | around the port tube's mouth and behind the driver |
+
 ## Test setup
 
 The damping was studied as an **experimental setup**, not built as a finished interior: materials were
