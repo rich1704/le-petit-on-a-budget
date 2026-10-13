@@ -8,7 +8,7 @@ adds the order, the cutting plan and what was learned building and measuring thi
 | --- | --- |
 | **Result** | a pair of 27-litre vented boxes, 530 × 340 × 254 mm, Aiyima 4" full-range, port tuned to ≈ 48 Hz |
 | **Material** | one 2000 × 1000 mm board of 22 mm OSB, square edges |
-| **Tools** | track or circular saw, drill, Ø 94 / 75 / 70 mm hole saws or a router, clamps, stapler, multimeter |
+| **Tools** | track or circular saw, **biscuit joiner** (Flachdübelfräse), drill, Ø 94 / 75 / 70 mm hole saws or a router, clamps and a ratchet strap, stapler, multimeter |
 
 ## Parts list (per pair)
 
@@ -18,7 +18,7 @@ adds the order, the cutting plan and what was learned building and measuring thi
 - [ ] beech strip 15 × 20 mm, ≈ 3.1 m (cleats for the back panel)
 - [ ] foam gasket tape 3 × 10 mm, ≈ 3.5 m
 - [ ] 32 × M4 threaded inserts and 32 × M4 × 30 pan-head screws with washers
-- [ ] ≈ 60 × 4.5 × 60 mm countersunk wood screws
+- [ ] 60 biscuits, size 20 (the carcass is glued, no screws)
 - [ ] 2 pairs of speaker terminals (Ø 12 mm holes)
 - [ ] sheep's wool fleece (garden fleece / mulch mat, ≈ 10 mm, ≈ 140 g/m², e.g. a 5 × 0.5 m roll): one back-panel sheet and one pocket per speaker
 - [ ] 2 × 50 g polyester fill (pillow stuffing)
@@ -75,17 +75,28 @@ Glue the beech cleats (2 × 486 on the sides, 2 × 266 between them on top and b
 **23 mm in from the rear edge** — 22 mm back panel + 1 mm compressed gasket. Jig: lay a back panel on
 the rear edges with 22 mm offcuts plus 1 mm of card underneath as spacers.
 
-## 5 — Assemble the carcass
+## 5 — Biscuit slots and carcass
 
-Sides, top and bottom: glue and screw (4.5 × 60, Ø 4.5 mm clearance hole, **Ø 3 mm pilot** — OSB
-splits along the chip layers). Glue carries the joint, the screws are the clamps. Check the
-diagonals; a back panel dry-fitted on wax paper holds it square.
+The carcass is **glued with biscuits — no screws**. 30 biscuits per cabinet, size 20:
+
+| Joint | Biscuits (mm from the panel end) |
+| --- | --- |
+| Front onto the sides, 530 edges | 6 per edge at 45 / 133 / 221 / 309 / 397 / 485 |
+| Front onto top and bottom | 3 per edge at 70 / 170 / 270 |
+| Sides onto the ends of top and bottom | 3 per edge at 45 / 105 / 165 |
+
+Size the cut edges with thinned PVA and let it tack, then glue sides, top and bottom with their
+biscuits. Check the diagonals; a back panel dry-fitted on wax paper holds it square.
+
+> **Biscuits in OSB** — reference the joiner from the face (both parts face down on a flat surface),
+> not from the fence: OSB varies in thickness. Check every slot for voids between the chips and move
+> it 20 mm if it's hollow. Keep sealer and lacquer out of the slots. Clamp harder than usual — ratchet
+> strap plus cauls.
 
 ## 6 — Front and doubler
 
-Glue and screw the front on (18 screws on the 11 mm centre line, plan sheet 2). Glue the doubler
-flush with the bottom edge, 20 mm in from each side; a 70 mm pipe offcut through both port holes
-locates it.
+Glue the front on with its 18 biscuits, strap and cauls across the front. Glue the doubler flush with
+the bottom edge, 20 mm in from each side; a 70 mm pipe offcut through both port holes locates it.
 
 ## 7 — Seal the corners
 

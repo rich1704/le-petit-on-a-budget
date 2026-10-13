@@ -50,14 +50,14 @@ EQ is the next step.
 | **Box** | 530 × 340 × 254 mm outside, 486 × 296 × 188 mm inside = **27.0 l**, removable back |
 | **Material** | one 2000 × 1000 mm board of 22 mm OSB (square edges), beech cleats, HT DN75 drain pipe |
 | **Driver** | Aiyima 4" full-range, 8 Ω version (fits the Ø 94 mm cutout) |
-| **Joints** | butt joints, glued and screwed; back panel on cleats with gasket and M4 inserts |
+| **Joints** | butt joints with **biscuits (size 20) and wood glue — no screws**; only the back panel is screwed, on cleats with gasket and M4 inserts |
 
 **Both cabinets from one board:** two edge trims, five cross cuts (530 · 530 · 300 · 296 · 300),
 then each piece is ripped or cut to length.
 
 ![Cutting plan: both cabinets from one 2000 × 1000 mm board](docs/plans/cut-layout-2000x1000.png)
 
-**The building plan** — three drawing sheets with every dimension, plus cut list, holes, screw
+**The building plan** — three drawing sheets with every dimension, plus cut list, holes, biscuit
 positions and assembly order: [docs/building-plan.md](docs/building-plan.md).
 
 [![Building plan, sheet 2: panels, holes and cut list](docs/plans/building-plan-sheet-2.png)](docs/building-plan.md)
@@ -68,8 +68,8 @@ positions and assembly order: [docs/building-plan.md](docs/building-plan.md).
 2. Drill the holes — Ø 94 driver, Ø 75 / 70 port, Ø 12 terminals
 3. Seal the inside faces — OSB isn't airtight
 4. Glue the cleats 23 mm from the rear edge
-5. Assemble the carcass
-6. Front and doubler
+5. Biscuit slots and carcass — glued, no screws
+6. Front and doubler — glued with biscuits
 7. Seal the corners
 8. Finish
 9. Inserts and gasket
@@ -187,7 +187,7 @@ Rig: [docs/02-measurement-rig.md](docs/02-measurement-rig.md) · Jig build guide
 ```
 docs/
 ├── 01-build.md              build guide, 14 steps, parts list, cutting plan
-├── building-plan.md         the building plan: drawings, cut list, holes, screws, assembly
+├── building-plan.md         the building plan: drawings, cut list, holes, joints, assembly
 ├── 02-measurement-rig.md    equipment, signal chain, microphone positions
 ├── 03-impedance-jig.md      the 50 Ω jig: parts, wiring, calibration, verification
 ├── 04-method.md             sweeps, windows, near-field sum, impedance estimator

@@ -1,8 +1,10 @@
 # Building plan
 
 Le Petit after Jean Hiraga (*L'Audiophile* no. 29, 1983), hole positions after R. Berchtold (2022),
-adapted to **22 mm OSB** with butt joints (glued and screwed) and a **removable back panel**.
+adapted to **22 mm OSB** with butt joints with biscuits and wood glue (no screws in the carcass) and a **removable back panel**.
 All dimensions in mm. The drawings are vector files (SVG) — open them full size to print at any scale.
+The carcass was **glued with biscuits, not screwed**: where the drawings mark carcass screws, read
+biscuit positions.
 
 > **Changed against the drawings: the back panel is 292 × 482**, not 294 × 484 — 2 mm play per side
 > in the 296 × 486 opening (step 10 of the [build guide](01-build.md)). The drawings show the
@@ -16,7 +18,7 @@ All dimensions in mm. The drawings are vector files (SVG) — open them full siz
 
 ## Sheet 2 — Panels and cut list
 
-[![Sheet 2: every panel with holes and screw positions, cut list](plans/building-plan-sheet-2.png)](plans/building-plan-sheet-2.svg)
+[![Sheet 2: every panel with holes, joint positions and cut list](plans/building-plan-sheet-2.png)](plans/building-plan-sheet-2.svg)
 
 [Open sheet 2 (SVG)](plans/building-plan-sheet-2.svg)
 
@@ -40,7 +42,7 @@ All dimensions in mm. The drawings are vector files (SVG) — open them full siz
 | --- | --- |
 | Outside | 530 × 340 × 232 (H × W × D), 254 deep at the doubler |
 | Inside clear | 486 × 296 × 188 = **27.0 l** (original 26.5 l) |
-| Material | 22 mm OSB, butt joints, glued and screwed |
+| Material | 22 mm OSB, butt joints with **biscuits (size 20) and wood glue — no screws in the carcass**; only the back panel is screwed (M4 into inserts) |
 | Port | Ø 70 through the doubler, Ø 75 bore in the front; the plan's tube 117 + doubler 22 = 139 mm ≈ 43 Hz for the FE103NV2 — **with the Aiyima: 175 mm total, ≈ 48 Hz** ([Step 2](06-step-2-port-tube.md)) |
 
 ## Cut list
@@ -70,15 +72,27 @@ Cut the cleats to fit the finished opening.
 
 Chamfer the inside edge of the driver cutout.
 
-## Carcass screws
+## Carcass joints: biscuits and glue
 
-Glue carries the joint, the screws are the clamps. 4.5 × 60 countersunk, Ø 4.5 clearance hole and
-**Ø 3 pilot** — always pre-drill, OSB splits along the chip layers.
+As built, the carcass is **glued with biscuits — no screws**. The drawings mark screw positions; the
+biscuits sit at exactly those positions. **30 biscuits per cabinet, size 20** (60 for the pair).
 
-| Joint | Screws |
+| Joint | Biscuits (positions in mm from the panel end) |
 | --- | --- |
-| Front into the carcass | 18 per box on the 11 mm centre line: 6 per 530 edge at 45 / 133 / 221 / 309 / 397 / 485, 3 per top/bottom edge at 70 / 170 / 270 |
-| Sides into the ends of top and bottom | 3 per edge at 45 / 105 / 165 |
+| Front onto the sides, along the 530 edges | 6 per edge at 45 / 133 / 221 / 309 / 397 / 485 |
+| Front onto top and bottom | 3 per edge at 70 / 170 / 270 |
+| Sides onto the ends of top and bottom | 3 per edge at 45 / 105 / 165 |
+
+**Biscuits in OSB — what's different from MDF**
+
+- **Reference from the face, not the fence.** OSB varies in thickness and the surface is uneven, so
+  the fence wanders. Lay both parts face down on a flat surface and cut the slots from there. Size 20
+  in a 22 mm edge leaves about 9 mm of material each side, centred.
+- **Check every slot before gluing.** The cutter can run into a void between the chips; if a slot is
+  hollow, move it 20 mm and cut again.
+- **Keep sealer and lacquer out of the slots.** Saturate the edges with thinned glue beforehand, but the
+  biscuits must swell into bare material.
+- **More clamping pressure than usual:** a ratchet strap plus cauls across the front, or the joints open.
 
 ## Removable back (detail C)
 
@@ -96,10 +110,10 @@ Glue carries the joint, the screws are the clamps. 4.5 × 60 countersunk, Ø 4.5
 3. **Seal.** Two coats of thinned lacquer on all inside faces before assembly — OSB is porous.
 4. **Cleats.** Glue to sides, top and bottom, face 23 mm from the rear edge (jig: back panel on the
    rear edges, 22 mm offcuts + 1 mm card as spacers).
-5. **Pre-drill.** Ø 4.5 clearance in the outer panel, Ø 3 pilot in the edge.
-6. **Carcass.** Size the cut edges with thin PVA, let it tack, then glue and screw sides, top and
-   bottom. A back dry-fitted on wax paper holds it square. Check the diagonals.
-7. **Front.** Glue and screw it on — 18 screws on the 11 mm centre line.
+5. **Biscuit slots.** Cut all 30 slots per cabinet (size 20), referenced from the face; check each for voids.
+6. **Carcass.** Size the cut edges with thin PVA, let it tack, then glue sides, top and bottom with
+   biscuits, strap-clamped. A back dry-fitted on wax paper holds it square. Check the diagonals.
+7. **Front.** Glue it on with 18 biscuits; clamp with a strap and cauls across the front.
 8. **Doubler.** Flush with the bottom edge, 20 mm in from each side; a 70 mm pipe offcut through both
    port holes locates it.
 9. **Seal and tube.** Glue fillet or acrylic in every inside corner; fit and seal the port tube.
@@ -117,7 +131,7 @@ Glue carries the joint, the screws are the clamps. 4.5 × 60 countersunk, Ø 4.5
 | 32 | M4 × 30 pan-head screws + washers |
 | ≈ 3.5 m | foam gasket tape 3 × 10 |
 | 2 pairs | speaker terminals for Ø 12 holes |
-| ≈ 60 | screws 4.5 × 60 countersunk |
+| 60 | biscuits size 20 (carcass, no screws) |
 | | damping — plan: 10 mm wool felt (≈ 1.2 m² per pair); this build: sheep's wool garden fleece (≈ 140 g/m²), one back-panel sheet + one pocket per speaker, and 2 × 50 g polyester fill |
 | | PVA glue, clear lacquer, acrylic sealant, wire |
 
