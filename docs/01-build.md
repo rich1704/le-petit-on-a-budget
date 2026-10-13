@@ -20,7 +20,7 @@ adds the order, the cutting plan and what was learned building and measuring thi
 - [ ] 32 × M4 threaded inserts and 32 × M4 × 30 pan-head screws with washers
 - [ ] ≈ 60 × 4.5 × 60 mm countersunk wood screws
 - [ ] 2 pairs of speaker terminals (Ø 12 mm holes)
-- [ ] wool felt 10 mm: one back-panel sheet and one pocket per speaker
+- [ ] sheep's wool fleece (garden fleece / mulch mat, ≈ 10 mm, ≈ 140 g/m², e.g. a 5 × 0.5 m roll): one back-panel sheet and one pocket per speaker
 - [ ] 2 × 50 g polyester fill (pillow stuffing)
 - [ ] wood glue (PVA), clear water-based lacquer, acrylic sealant, speaker wire
 
@@ -140,12 +140,12 @@ Two ways to mount it from the inside:
 
 ![The damping layout on the back panel](assets/photos/damping-L-09-pocket-50g.jpg)
 
-- **One 10 mm wool felt layer** covering the inside of the back panel, opposite the port.
+- **One layer of sheep's wool fleece** (≈ 10 mm) covering the inside of the back panel, opposite the port.
 - **A wool pocket with 50 g of loose polyester fill**, puffy, across the **middle third of the box
   height** (≈ 16–32 cm above the inner floor), stapled to the back panel.
 
-Keep ≈ 5 cm clear around the tube's mouth and behind the driver. Materials: wool felt about 10 mm,
-and polyester fibre fill — the synthetic stuffing found in ordinary pillows.
+Keep ≈ 5 cm clear around the tube's mouth and behind the driver. Materials: sheep's wool garden fleece
+(≈ 10 mm, ≈ 140 g/m²) and polyester fibre fill — the synthetic stuffing found in ordinary pillows.
 
 > **The photo shows the test setup**, not a finished interior: this layout came out of eight
 > measured variants where material was added and removed between measurements

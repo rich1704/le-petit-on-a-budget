@@ -8,7 +8,7 @@
    ≈ 48 Hz and a flat bass in this box. Cut long, measure, trim.
 3. **Place damping by the mode, not by the panel.** Thick, loose fill at mid-height for the 350 Hz
    mode; wool on the back panel for the ~950 Hz depth mode. One thin layer alone does little.
-4. **The budget damping layout works:** one 10 mm wool layer on the back panel plus 50 g of pillow
+4. **The budget damping layout works:** one layer of sheep's wool fleece on the back panel plus 50 g of pillow
    fill in a wool pocket across the middle third of the height.
 5. **Build the back panel as drawn** — 292 × 482 mm, gasket and screws — and seal the OSB inside.
    A friction fit leaks and shifts the bass every time it's refitted.

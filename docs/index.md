@@ -10,7 +10,7 @@ built on a budget and tuned by measurement, one change at a time.**
 > **In short**
 >
 > - **One 2000 × 1000 mm board** of 22 mm OSB for the pair, a drain pipe as the port tube, one sheet
->   of wool felt per speaker for damping.
+>   of sheep's wool fleece per speaker for damping.
 > - **Bass flat within ±1 dB from 55 to 150 Hz, down to 47 Hz** — the box with this driver and the
 >   original bare port had a +8 dB boom at 75 Hz.
 > - **Box resonances −5 to −6 dB** with a damping layout that fits on the back panel.
@@ -112,7 +112,7 @@ The box has three resonances that leak out of the port, and its dimensions predi
 
 Damping only works where the air moves. **The layout that came out of eight measured variants:**
 
-- **one 10 mm wool felt layer** covering the inside of the back panel (against the depth mode), and
+- **one layer of sheep's wool fleece** (≈ 10 mm) covering the inside of the back panel (against the depth mode), and
 - **a wool pocket with 50 g of loose polyester fill** across the **middle third of the height**
   (where the height mode moves the most air).
 
@@ -120,8 +120,9 @@ Damping only works where the air moves. **The layout that came out of eight meas
 
 > **Test setup, not the finished state.** The damping shown here is an experimental rig, built to
 > compare materials and placements: felt cut to size and stapled in, a hand-made pocket, material
-> added and taken out again between measurements. Materials: **wool felt, about 10 mm**, and
-> **polyester fibre fill** — the synthetic stuffing found in ordinary pillows. The finished speakers
+> added and taken out again between measurements. Materials: **sheep's wool garden fleece** — the
+> unbleached fleece sold as a plant-protection or mulch mat, ≈ 10 mm, 350 g per 5 × 0.5 m roll
+> (≈ 140 g/m²) — and **polyester fibre fill**, the synthetic stuffing found in ordinary pillows. The finished speakers
 > get the same layout made neatly: felt cut to the panel, a sewn pocket, fixed securely.
 
 ![Change of the three problem peaks for each damping variant](assets/charts/step1-rounds.png)

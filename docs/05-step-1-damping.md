@@ -47,7 +47,7 @@ Porous material absorbs where the air *moves*, not where pressure builds:
 - **Depth mode and port resonance:** the front-to-back wave reflects off the back panel, opposite
   the port's inner end → **wool on the back panel**, and fill that reaches into the box depth.
 
-**Design goal for the production layout:** one sheet of wool felt per speaker, everything mounted
+**Design goal for the production layout:** one sheet of wool fleece per speaker, everything mounted
 on the removable back panel.
 
 ## Test setup
@@ -58,10 +58,15 @@ the box — held constant.
 
 | | |
 | --- | --- |
-| Materials | **wool felt, about 10 mm**; **polyester fibre fill** (the synthetic stuffing found in ordinary pillows), weighed per round; a thin fabric bag or a wool pocket to hold the fill |
+| Materials | **sheep's wool garden fleece** — unbleached, sold as a plant-protection / mulch mat, ≈ 10 mm, 350 g per 5 × 0.5 m roll (≈ 140 g/m²); **polyester fibre fill** (the synthetic stuffing found in ordinary pillows), weighed per round; a thin fabric bag or a wool pocket to hold the fill |
 | Fixing | staples into the back panel, so each variant can be changed in minutes |
 | Per round | one change, then port near field (all rounds) and far field + near-field driver (full sessions) |
 | Outcome | a layout to build neatly in the finished speaker — not the stapled test fixture itself |
+
+> **Note on the material:** the original plan calls for dense 10 mm wool felt (≈ 1500 g/m²). The garden
+> fleece used here is about ten times lighter and far cheaper — and with the pocket at mid-height it
+> still takes 5–6 dB off every box resonance. Dense felt on the back panel would likely do more
+> against the ~950 Hz depth mode.
 
 ## Eight variants, measured
 

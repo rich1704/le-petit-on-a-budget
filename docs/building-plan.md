@@ -110,7 +110,7 @@ Glue carries the joint, the screws are the clamps. 4.5 × 60 countersunk, Ø 4.5
 | ≈ 3.5 m | foam gasket tape 3 × 10 |
 | 2 pairs | speaker terminals for Ø 12 holes |
 | ≈ 60 | screws 4.5 × 60 countersunk |
-| | wool felt 10 mm (this build: one back-panel sheet + one pocket per speaker) and 2 × 50 g polyester fill |
+| | damping — plan: 10 mm wool felt (≈ 1.2 m² per pair); this build: sheep's wool garden fleece (≈ 140 g/m²), one back-panel sheet + one pocket per speaker, and 2 × 50 g polyester fill |
 | | PVA glue, clear lacquer, acrylic sealant, wire |
 
 ## Notes on the plan
