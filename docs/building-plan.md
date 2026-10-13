@@ -26,6 +26,10 @@ All dimensions in mm. The drawings are vector files (SVG) — open them full siz
 
 [Open sheet 3 (SVG)](plans/building-plan-sheet-3.svg)
 
+## Port (as built)
+
+![Section through the port: doubler 22 + front 22 + tube 131 = 175 mm total, 57 mm clear to the back panel](assets/diagrams/port-tube.svg)
+
 ## Dimensions
 
 | | Size |

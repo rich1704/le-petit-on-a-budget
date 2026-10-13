@@ -86,6 +86,8 @@ through from the tube's inner end to the doubler's outer face. That tunes the bo
 The original 43 Hz tuning is meant for the lean Fostex FE103NV2 next to a wall; with the Aiyima it
 would droop early.
 
+![Section through the port: doubler 22 + front 22 + tube 131 = 175 mm total, 57 mm clear to the back panel](assets/diagrams/port-tube.svg)
+
 ![Bass, driver + port: the hump at 75 Hz is gone with the 175 mm port](assets/charts/step2-bass-sum.png)
 
 | Target Fb | Total port | |

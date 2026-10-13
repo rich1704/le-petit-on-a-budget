@@ -123,6 +123,11 @@ An HT DN75 drain pipe extends the port inside the box. **Total port length 175 m
 straight through from the tube's inner end to the doubler's outer face. That tunes the box to
 ≈ 48 Hz — flat bass with the Aiyima ([why](06-step-2-port-tube.md)).
 
+![Section through the port: doubler 22 + front 22 + tube 131 = 175 mm total, 57 mm clear to the back panel](assets/diagrams/port-tube.svg)
+
+**Cut list for the tube:** as built (butted against the inside of the front, with flaps): 131 mm tube
++ 20 mm for the flaps = **151 mm piece**. Pushed into the Ø 75 front bore instead: **153 mm piece**.
+
 Two ways to mount it from the inside:
 
 - **Pushed into the Ø 75 front bore** up to the doubler, sealed with acrylic.
